@@ -1,10 +1,12 @@
 # tomato-timer
 
-Timer
-
-- 설치
+### Timer
 
 ```
 > npm install prop-types
 > npm install redux react-redux --save
 ```
+
+- react native
+- redux
+- expo
